@@ -16,7 +16,7 @@ For those tired on DTLZ, fonseca, etc etc etc.
 
 | What | File|
 |------|-----|
-| [Misc](#Misc) | nasa93dem.csv healthCloseIsses12mths0011-easy.csv healthCloseIsses12mths0001-hard.csv coc1000.csv china.csv auto93.csv |
+| [Misc](#Misc) |  healthCloseIsses12mths0011-easy.csv healthCloseIsses12mths0001-hard.csv auto93.csv |
 | [UCI](#UCI) | Wine_quality.csv |
 | [Process data](#process_data) | pom3a.csv pom3b.csv pom3c.csv pom3d.csv xomo_flight.csv xomo_ground.csv xomo_osp.csv xomo_osp2.csv coc1000.csv china.csv nasa93dem.csv |
 | [Configuration](#configuration) | SS-A.csv SS-B.csv SS-C.csv SS-D.csv SS-E.csv SS-F.csv SS-G.csv SS-H.csv SS-I.csv SS-J.csv SS-K.csv SS-L.csv SS-M.csv SS-N.csv SS-O.csv |
