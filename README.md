@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/tests-passing-green"> <img
-src="https://img.shields.io/badge/lua-5.4-yellow"> <img
+<img src="https://img.shields.io/badge/tests-passing-green">   <img
 src="https://img.shields.io/badge/purpose-se--ai-blueviolet"> <img
 src="https://img.shields.io/badge/platform-osx,linux-pink">
 
